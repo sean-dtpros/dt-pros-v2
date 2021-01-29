@@ -1,0 +1,67 @@
+[
+    {
+        "id": "infotechno-hero-content",
+        "title": "Building the world,<br/> together.",
+        "subtitle": "IT Development & Consulting",
+        "shortDesc": "Award-winning SBA certified 8(a) information technology and software solutions firm.",
+        "path": "/",
+        "image1": "./images/hero/home-infotechno-main-slider-slide-01-image-01.png",
+        "image2": "./images/hero/home-infotechno-main-slider-slide-01-image-02.png"
+    },
+    {
+        "id": "infotechno-featured-content",
+        "title": "Breakthrough thought-leadership and<br/ > <span>go to market strategies.</span>",
+        "subtitle": "OUR SERVICES"
+    },
+    {
+        "id": "infotechno-about-content",
+        "title": "We’ve been thriving since <span>2013</span>",
+        "subtitle": "OUR COMPANY",
+        "desc": "DT Professional Services specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it.",
+        "path": "/about-us",
+        "features": [
+            {
+                "text": "How we can help your business?",
+                "path": "/about-us"
+            },
+            {
+                "text": "Why become our partner?",
+                "path": "/about-us"
+            },
+            {
+                "text": "Who is DT?",
+                "path": "/about-us"
+            }
+        ]
+    },
+    {
+        "id": "infotechno-services-content",
+        "title": "How we claim to <span>excel?</span>",
+        "subtitle": "HIRE US, WHY NOT?"
+    },
+    {
+        "id": "infotechno-video-content",
+        "bgImage": "./images/bg/home-infotechno-video-intro-bg.jpg",
+        "title": "Share the joy of achieving glorious moments <br/> & climbing up the top.",
+        "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
+    },
+    {
+        "id": "infotechno-case-study-content",
+        "title": "Proud projects that <span>make us stand out</span>",
+        "subtitle": "CASE STUDIES",
+        "bottom_text": "Challenges are just opportunities in disguise.",
+        "bottom_link_text": "Take the challenge!",
+        "bottom_link": "/case-studies",
+        "bgImage": "./images/bg/case-study-section-bg.png"
+    },
+    {
+        "id": "infotechno-blog-content",
+        "title": "Interesting articles <span>updated daily</span>",
+        "subtitle": "BLOGS & NEWS"
+    },
+    {
+        "id": "infotechno-contact-content",
+        "title": "Learn more by <span>contacting</span> our experienced team today.",
+        "desc": "We’re available for 8 hours a day! <br/> Contact to aquire a detailed analysis and assessment of your plan"
+    }
+]
